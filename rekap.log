@@ -1,0 +1,3 @@
+2025-10-20 14:25:54,927 - INFO - Memulai proses rekap kehadiran UTS.
+2025-10-20 14:25:54,927 - INFO - Berhasil menulis data presensi ke 'data\presensi.csv'.
+2025-10-20 14:25:54,929 - INFO - Berhasil menyimpan ringkasan ke 'data\ringkasan.json'.
